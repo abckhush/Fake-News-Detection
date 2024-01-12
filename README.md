@@ -22,7 +22,6 @@ This project focuses on detecting fake news using Natural Language Processing (N
 3. Feature Extraction: Extract relevant features from the preprocessed text data to represent each article.
 4. Model Training: Train a machine learning model, such as a classification algorithm, using the extracted features.
 5. Model Evaluation: Evaluate the trained model's performance using metrics such as accuracy, precision, recall, and F1-score.
-6. Deployment: Deploy the trained model to classify new news articles as real or fake.
 
 ## Usage
 1. Clone the repository:
@@ -32,7 +31,7 @@ This project focuses on detecting fake news using Natural Language Processing (N
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
-3. Run the Jupyter notebook:
+3. Run the Jupyter Notebook:
    ```bash
    jupyter notebook fake_news_detection.ipynb
 
